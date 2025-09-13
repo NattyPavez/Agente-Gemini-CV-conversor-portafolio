@@ -46,7 +46,8 @@ Este es solo el **primer paso** de una iniciativa más amplia:
 ---
 
 ## 🎥 Video Demo
-👉 *(Próximamente aquí compartiré un enlace al demo en video mostrando el flujo completo.)*  
+🎥 [Ver demo en video](https://github.com/NattyPavez/Agente-Gemini-CV-conversor-portafolio/raw/main/Demo-agente-gemini-colab.mp4)
+
 
 ---
 
